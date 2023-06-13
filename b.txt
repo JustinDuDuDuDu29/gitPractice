@@ -2,3 +2,6 @@ this is added in feature branch
 this is b2
 b3
 gps1
+wifi 
+bt
+sound
